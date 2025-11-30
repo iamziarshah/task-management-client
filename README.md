@@ -77,12 +77,13 @@ src/
 
 ## Screenshots
 
-[Add screenshots here]
+![Login Page](./screenshots/login.png)
+![Dashboard](./screenshots/dashboard.png)
+![Tasks List](./screenshots/tasks.png)
 
-## License
-
-MIT
 
 ## Author
 
-Mansoor Imtiaz - Full Stack Developer
+**Syed Ziar Hussain Shah**  
+LAMP Full Stack Developer @ CloudPSO  
+📧 [ziar.shah.pk@gmail.com](mailto:ziar.shah.pk@gmail.com)
